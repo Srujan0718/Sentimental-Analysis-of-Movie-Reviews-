@@ -1,2 +1,2 @@
-# Sentimental-Analysis-of-Movie-Reviews-
-Movie Review Sentiment Analyzer
+# movie-reviews
+sentiment analysis of movie reviews using deep learning techniques
